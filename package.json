@@ -1,0 +1,12 @@
+{
+  "name": "hidroview",
+  "version": "1.0.0",
+  "description": "Esse template está configurado para criar um ambiente com as principais dependências que precisamos na aula. Para criar um novo projeto no ambiente:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
